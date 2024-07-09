@@ -1,0 +1,10 @@
+data
+
+venv
+.env
+
+*.pyc
+*.pyo
+
+
+.DS_Store
